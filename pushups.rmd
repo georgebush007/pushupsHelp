@@ -20,9 +20,9 @@ require(tigerstats)
 
 Create an Rstudio project called pushups in your project folders directory. Using the dataset called pushups from the tigerstats package in R; answer the question posed by this null and alternate hypothesis in an html markdown document.
 
-$H_0$: There is no difference between the average pushups of line vs skill players
+$H_0$: There is no difference in the average number of pushups that can be done in two minutes between line vs skill players
 
-$H_A$: The average pushups of line players is statistically different than that of skill players.
+$H_A$: The is a difference in the average number of pushups that can be done in two minutes between line vs skill players
 
 submit that html file to canvas to complete this assignment.
 
@@ -95,4 +95,4 @@ The null hypothesis $H_0$ is, "there is no difference between the average pushup
 
 The boxplot indicates a significant difference between the pushups distributions of players in the two positions. the numerical summary shows line players number of pushups are on average 17.12500 and the skill players number of pushups are on average of 49.72727
 
-A t test of difference in means gave a p value of .000009421 , this is less than 0.05, so we reject the null hypothesis and conclude we have evidence of a difference in average number of pushups between players in the two positions.
+A t test of difference in means gave a p value of .000009421 , this is less than 0.05, so we reject the null hypothesis and conclude we have evidence of a difference in average number of pushups between players in the two positions.  
